@@ -1,0 +1,19 @@
+📊 Descripción del Dataset - Ventas
+
+Este conjunto de datos recopila información detallada sobre los pedidos realizados, proporcionando un análisis integral de la actividad comercial.
+
+📝 Columnas:
+🆔 ID Cliente: Identificador único del cliente que realizó la compra.
+🌍 Zona: Ubicación geográfica donde se realizó la venta.
+🇨🇺 País: País donde se procesó el pedido.
+📦 Tipo de producto: Categoría del producto vendido.
+🛒 Canal de venta: Medio a través del cual se realizó la transacción (ej. tienda física, comercio electrónico).
+🚦 Prioridad: Nivel de urgencia o importancia asignado al pedido.
+📅 Fecha pedido: Fecha en la que se registró la solicitud de compra.
+🔢 ID Pedido: Código único asociado al pedido.
+🚚 Fecha envío: Fecha en la que el pedido fue despachado.
+🔢 Unidades: Cantidad de productos vendidos en cada transacción.
+💰 Precio Unitario: Valor unitario del producto.
+💸 Coste unitario: Costo asociado a cada unidad vendida.
+📈 Importe venta total: Ingresos generados por la venta de los productos.
+📉 Importe coste total: Costo total de los productos vendidos.
