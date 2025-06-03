@@ -16,7 +16,7 @@ Este conjunto de datos recopila información detallada sobre los pedidos realiza
 
 🌍 Zona: Ubicación geográfica donde se realizó la venta.
 
-🇨🇺 País: País donde se procesó el pedido.
+🇺🇳 País: País donde se procesó el pedido.
 
 📦 Tipo de producto: Categoría del producto vendido.
 
