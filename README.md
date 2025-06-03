@@ -43,5 +43,7 @@ Este conjunto de datos recopila información detallada sobre los pedidos realiza
 # 📌 Este repositorio permite analizar:
 
 🌍 Unidades enviadas por continente: Un análisis del volumen de productos distribuidos en cada región, permitiendo evaluar la demanda y eficiencia logística.
+
 💸 Importe total de costo por continente: Suma total de costos asociados a las ventas en cada continente, útil para optimizar la rentabilidad y reducir gastos operativos.
+
 📈 Total de ventas a través de los meses: Evolución de las ventas en el tiempo, facilitando la identificación de patrones estacionales y oportunidades de crecimiento.
